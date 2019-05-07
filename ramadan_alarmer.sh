@@ -1,7 +1,7 @@
 #!/bin/bash
 
-DAWN_FILE='/home/bob/dawn_ramadan_2019.txt'
-SUNSET_FILE='/home/bob/sunset_ramadan_2019.txt'
+DAWN_FILE='./dawn_ramadan_2019.txt'
+SUNSET_FILE='./sunset_ramadan_2019.txt'
 CURR_MONTH_DAY=$(date | awk '{print $2,$3}')
 LOG_FILE='/tmp/ramadan_2019.txt'
 ATHAN_FILE='/home/bob/Music/athan2.mp4'
