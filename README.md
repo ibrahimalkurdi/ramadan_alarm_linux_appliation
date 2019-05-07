@@ -17,8 +17,8 @@ XX XX * * * <%directory%>/ramadan_alarmer.sh sunset
 After running the script, the script fetch the current time on the local machine and compare it with the one which maches the same current date. And once it matches, it execute the command which will adjust the speakers volume and run ATHAN audio file. 
 
 **DO NOT FORGET TO CHANGE THESE VARIABLES:**
-- DAWN_FILE     "The file of the Fasting times per day"
-- SUNSET_FILE   "The file of the Breakfasting times per day"
+- DAWN_FILE     "The file of the Fasting time per day"
+- SUNSET_FILE   "The file of the Breakfasting time per day"
 - LOG_FILE      "log file for the script"
 - ATHAN_FILE    "the audio file which will be run"
 - DAWN_VOLUME   "Ajust the system volume during the dawn time"
