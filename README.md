@@ -29,6 +29,6 @@ Note:
 ---
 The Fasting/Breakfast times are picked for Berlin/Germany timezone.  
 I have decreased the fasting time by 5 minutes, so it is better to prepare for fasting (stop eating and drinking)  
-This is the reference of the times' files:
+This is the reference of the time files:
 http://izdb-berlin.de/gebetszeiten/
 
