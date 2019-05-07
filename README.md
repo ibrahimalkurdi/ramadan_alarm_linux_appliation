@@ -1,4 +1,4 @@
-# Ramadan Fasting/Breakfast Alarm Ubuntu desktop script:
+# Ramadan Fasting/Breakfast Alarm Ubuntu desktop script
 
 This is a small script to give an alarm for fasting/breakfast time.
 
