@@ -26,7 +26,7 @@ After running the script, the script fetch the current time on the local machine
 
 Note:
 The Fasting/Breakfast times are picked for Berlin/Germany timezone.
-I have decreased the fasting time by 5 minutes, so it will be better to prepare for fasting
+I have decreased the fasting time by 5 minutes, so it is better to prepare for fasting (stop eating and drinking)
 This is the reference of the times' files:
 http://izdb-berlin.de/gebetszeiten/
 
