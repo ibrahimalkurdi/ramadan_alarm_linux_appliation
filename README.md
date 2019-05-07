@@ -5,6 +5,7 @@ This is a small script to give an alarm for fasting/breakfast time.
 It worked on Ubuntu 18.04 as a cronjob.
 
 To run it for dawn time in crontab, add the line below with your desired time:
+Note: I set it one hour rafely earlier than the match time
 ```
 XX XX * * * <%directory%>/ramadan_alarmer.sh dawn
 ```
