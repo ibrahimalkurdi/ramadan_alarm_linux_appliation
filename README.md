@@ -20,7 +20,7 @@ After running the script, the script fetch the current time on the local machine
 - DAWN_FILE     "The file of the Fasting time per day"
 - SUNSET_FILE   "The file of the Breakfasting time per day"
 - LOG_FILE      "log file for the script"
-- ATHAN_FILE    "the audio file which will be run"
+- ATHAN_FILE    "The audio file which will be run"
 - DAWN_VOLUME   "Ajust the system volume during the dawn time"
 - SUNSET_VOLUME "Ajust the system volume during the sunset time"
 
