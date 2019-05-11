@@ -32,5 +32,3 @@ I have decreased the fasting time by 5 minutes, so it is better to prepare for f
 This is the reference of the time files:
 http://izdb-berlin.de/gebetszeiten/
 
-Test
-
