@@ -29,7 +29,7 @@ while true; do
   if [[ $(date +%S) == 00 ]]; then
     if [[ ${ALARM_TIME} == $(date | awk '{print $4}') ]]; then
       date  >> ${LOG_FILE}
-      /usr/bin/amixer sset 'Master' ${DAWN_VOLUME}%
+      /usr/bin/amixer sset 'Master' ${VOULME}%
       bash -c "DISPLAY=:0 vlc ${ATHAN_FILE} vlc://quit"
       exit
     fi
