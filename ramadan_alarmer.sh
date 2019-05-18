@@ -5,8 +5,8 @@ SUNSET_FILE='./sunset_ramadan_2019.txt'
 CURR_MONTH_DAY=$(date | awk '{print $2,$3}')
 LOG_FILE='/tmp/ramadan_2019.txt'
 ATHAN_FILE='/home/bob/Music/athan2.mp4'
-DAWN_VOLUME=40
-SUNSET_VOLUME=100
+DAWN_VOLUME="40"
+SUNSET_VOLUME="100"
 
 if [[ $1 == "dawn" ]]; then
   date  >> ${LOG_FILE}
